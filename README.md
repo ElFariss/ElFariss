@@ -42,6 +42,7 @@ Enjoys building data pipelines, automating workflows, and experimenting with dis
 ### 🧩 OS
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
 
