@@ -29,7 +29,8 @@ Enjoys building data pipelines, automating workflows, and experimenting with dis
 ### 🖥️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
