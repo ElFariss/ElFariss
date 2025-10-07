@@ -1,9 +1,7 @@
-# Welcome
+# Welcome OwO
 
-Data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.  
+I am a wanna be data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.  
 Enjoys building data pipelines, automating workflows, and experimenting with distributed systems.
-
----
 ```
 ⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡢⡀⠀⠀⠀⠀
 ⠀⠀⠀⢄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀
@@ -24,8 +22,6 @@ Enjoys building data pipelines, automating workflows, and experimenting with dis
 ⠀⠀⠀⠀⠀⢠⡠⠔⠋⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠙⠲⣿⣧⠀⠀⠀⠀⠀
 ⢀⠔⠒⠀⠉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠉⠚⠤⢔
 ```
----
-
 ### 🖥️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
