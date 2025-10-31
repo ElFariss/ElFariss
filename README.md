@@ -1,7 +1,7 @@
 # Welcome >_<
 
 I am a wannabe data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.
-Enjoys building data pipelines, automating workflows, and experimenting with distributed systems.
+Enjoys building data pipelines, automating workflows, and experimenting with new systems.
 ```
 ⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡢⡀⠀⠀⠀⠀
 ⠀⠀⠀⢄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀
