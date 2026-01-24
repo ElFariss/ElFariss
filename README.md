@@ -1,6 +1,6 @@
 # Welcome >_<
 ![lain](lain.jpeg)
-I am a wannabe data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.
+I am a wannabe data engineering and machine learning practitioner who spends more time in the internet than in real life.
 Enjoys building data pipelines, automating workflows, and experimenting with new systems.
 ```
 ⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡢⡀⠀⠀⠀⠀
@@ -22,7 +22,7 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ⠀⠀⠀⠀⠀⢠⡠⠔⠋⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠙⠲⣿⣧⠀⠀⠀⠀⠀
 ⢀⠔⠒⠀⠉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠉⠚⠤⢔
 ```
-### 🖥️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -36,17 +36,25 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-### 🧩 OS
+### OS
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 
 ---
 
-### 📈 Stats
+### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElFariss&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElFariss&layout=compact&theme=transparent)
 
