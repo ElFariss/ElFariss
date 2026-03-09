@@ -26,6 +26,8 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ⢀⠔⠒⠀⠉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠉⠚⠤⢔
 ```
 <div align="center">
+  
+---
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&color=black)
