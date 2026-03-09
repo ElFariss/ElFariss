@@ -1,5 +1,5 @@
 # Welcome >_<
-<img src="lain.jpg">
+<img src="lain.jpeg">
 I am a wannabe data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.
 Enjoys building data pipelines, automating workflows, and experimenting with new systems.
 
