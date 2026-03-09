@@ -1,7 +1,9 @@
 # Welcome >_<
 <img src="lain.jpeg">
+<div align="center">
 I am a wannabe data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.
 Enjoys building data pipelines, automating workflows, and experimenting with new systems.
+</div>
 
 ```
 ⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡢⡀⠀⠀⠀⠀
@@ -23,6 +25,7 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ⠀⠀⠀⠀⠀⢠⡠⠔⠋⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠙⠲⣿⣧⠀⠀⠀⠀⠀
 ⢀⠔⠒⠀⠉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠉⠚⠤⢔
 ```
+<div align="center">
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&color=black)
@@ -68,3 +71,4 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/ElFariss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:fariselhakim898@gmail.com)
+</div>
