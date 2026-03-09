@@ -1,7 +1,8 @@
 # Welcome >_<
-![lain](lain.jpg)
+<img src="lain.jpg">
 I am a wannabe data engineering and machine learning practitioner who spends more time in the terminal than on the desktop.
 Enjoys building data pipelines, automating workflows, and experimenting with new systems.
+
 ```
 ⠀⠀⠀⠀⠀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡢⡀⠀⠀⠀⠀
 ⠀⠀⠀⢄⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀
@@ -47,7 +48,7 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ---
 
 ### Stats
-![Activity Graph](https://stats.pphat.top/graph?username=elfariss&theme=aurora&animate=pulse)
+![GitHub Stats](https://stats.pphat.top/stats?username=elfariss)
 
 ---
 
