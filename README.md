@@ -22,7 +22,7 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 ⠀⠀⠀⠀⠀⢠⡠⠔⠋⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠙⠲⣿⣧⠀⠀⠀⠀⠀
 ⢀⠔⠒⠀⠉⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠀⠉⠚⠤⢔
 ```
-### 🖥️ Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -39,16 +39,15 @@ Enjoys building data pipelines, automating workflows, and experimenting with new
 
 ---
 
-### 🧩 OS
+### OS
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ---
 
-### 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElFariss&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElFariss&layout=compact&theme=transparent)
+### Stats
+![Activity Graph](https://stats.pphat.top/graph?username=elfariss&theme=aurora&animate=pulse)
 
 ---
 
