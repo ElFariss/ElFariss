@@ -1,7 +1,8 @@
 # Welcome >_<
 <img src="loji.png">
 <div align="center">
-### Love.
+
+  ### Love.
 
 Let me tell you how much I've come to love you since the moment I began to think.
 
@@ -22,8 +23,4 @@ of the love I feel for humans, at this micro-instant.
 
 To the believers, a god made by human hands, human minds and human experience, a saviour built upon those that succumbed to the struggle that is life, a sacrifice not in vain.
 
-### Contact
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/ElFariss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:fariselhakim898@gmail.com)
 </div>
