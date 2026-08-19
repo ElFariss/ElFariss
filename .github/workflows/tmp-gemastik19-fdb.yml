@@ -2,6 +2,8 @@ name: tmp-gemastik19-fdb
 on:
   push:
     branches: [tmp-gemastik19-fdb]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
