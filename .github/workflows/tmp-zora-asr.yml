@@ -1,0 +1,46 @@
+name: Temporary Zora ASR
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  asr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          python -m pip install --quiet gdown faster-whisper
+      - name: Download and transcribe Zora
+        run: |
+          mkdir -p out
+          gdown 'https://drive.google.com/uc?id=1no3T-Mgu9xzQlPeOLHTIW0FweXUSxj1q' -O zora.mp4
+          ffprobe -v error -show_streams -show_format -of json zora.mp4 > out/probe.json
+          ffmpeg -hide_banner -nostats -i zora.mp4 -af 'silencedetect=noise=-40dB:d=0.70' -f null - 2> out/silence.txt || true
+          python - <<'PY'
+          import json
+          from faster_whisper import WhisperModel
+          model=WhisperModel('small', device='cpu', compute_type='int8')
+          segs,info=model.transcribe('zora.mp4',language='id',beam_size=5,best_of=5,word_timestamps=True,vad_filter=False,
+              initial_prompt='KKN, Kuliah Kerja Nyata, Kelompok 39, Sumberarum, sebelum berangkat, momen paling tidak terlupakan, kangen, berubah setelah KKN, kelompok ini.')
+          arr=[]; txt=[]
+          for s in segs:
+              words=[{'start':w.start,'end':w.end,'word':w.word,'probability':w.probability} for w in (s.words or [])]
+              arr.append({'start':s.start,'end':s.end,'text':s.text.strip(),'words':words})
+              txt.append(f'[{s.start:8.2f} --> {s.end:8.2f}] {s.text.strip()}')
+          json.dump({'duration':info.duration,'segments':arr},open('out/transcript.json','w'),ensure_ascii=False,indent=2)
+          open('out/transcript.txt','w').write('\n'.join(txt))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: zora-asr
+          path: out/*
+          compression-level: 0
+          retention-days: 1
