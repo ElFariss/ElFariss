@@ -27,9 +27,9 @@ jobs:
           python - <<'PY'
           import json
           from faster_whisper import WhisperModel
-          model=WhisperModel('small', device='cpu', compute_type='int8')
+          model=WhisperModel('medium', device='cpu', compute_type='int8')
           segs,info=model.transcribe('zora.mp4',language='id',beam_size=5,best_of=5,word_timestamps=True,vad_filter=False,
-              initial_prompt='KKN, Kuliah Kerja Nyata, Kelompok 39, Sumberarum, sebelum berangkat, momen paling tidak terlupakan, kangen, berubah setelah KKN, kelompok ini.')
+              initial_prompt='KKN, Kuliah Kerja Nyata, Kelompok 39, Sumberarum, sebelum berangkat, momen paling tidak terlupakan, kangen, berubah setelah KKN, kelompok ini, konco mesra, api unggun, pantai.')
           arr=[]; txt=[]
           for s in segs:
               words=[{'start':w.start,'end':w.end,'word':w.word,'probability':w.probability} for w in (s.words or [])]
@@ -40,7 +40,7 @@ jobs:
           PY
       - uses: actions/upload-artifact@v4
         with:
-          name: zora-asr
+          name: zora-asr-medium
           path: out/*
           compression-level: 0
           retention-days: 1
